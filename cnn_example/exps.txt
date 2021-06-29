@@ -1,0 +1,1 @@
+-hidden 75 50 25 10 5 -conv_size 

@@ -1,0 +1,4 @@
+-Ntraining=4
+-batch=200
+-epochs=2000
+-v
